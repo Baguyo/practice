@@ -1,0 +1,10 @@
+git init = initialize the git
+
+git status = show the files that is untracked in git
+
+git add (file) = add the file on git 
+git add . = auto add all the files in the directory to git
+
+git commit -m "(message for a file)" = make the file commit
+
+git log = check the log history     
